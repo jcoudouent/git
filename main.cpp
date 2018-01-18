@@ -19,6 +19,7 @@ int main(int argc, char *argv[]) {
     //test git
     cout << "test numero 2 >>endl;">>
     //test git 2
+    cout << "test numero 3 >>endl;">>
                  
     QApplication app(argc, argv);
 
